@@ -1,0 +1,6 @@
+ipykernel
+nltk
+numpy
+pandas
+skorch
+torch
